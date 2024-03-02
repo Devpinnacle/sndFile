@@ -1,0 +1,12 @@
+.mybottomstyle {
+    position: fixed;
+    bottom: 5%;
+    left: 60%;
+    display: flex;
+    justify-content: flex-end; /* Align items to the right */
+    align-items: center; /* Center items vertically */
+}
+
+.maginbottom{
+    margin-bottom: 2px;
+}
